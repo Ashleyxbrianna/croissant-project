@@ -1,0 +1,25 @@
+body {
+    background-color: #967E76;
+}
+
+p{
+    color: #EEE3CB;
+}
+
+a{
+    text-decoration:none;
+    color: #2C3639;
+}
+
+h1, p {
+    text-align: center;
+}
+
+
+
+.main-page, .photo-page, .contact{
+    text-align: center;
+}
+
+
+
